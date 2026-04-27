@@ -1,0 +1,16 @@
+/build
+/DebugConfig
+/Listings
+/Objects
+*.d
+*.o
+*.elf
+*.bin
+*.map
+*.acer
+*.axf
+*.crf
+*.dep
+*.uvoptx
+.vscode/
+.DS_Store
